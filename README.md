@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Sophia 👋
 
+- 💻 I'm a graduate student at UNC Charlotte studying Data Science and Business Analytics 📊
+- :books: I'm currently taking Applied Machine Learning, Strategic Business Analytics, and Business Intelligence and Analytics.
+- 💬 Ask me about my Streamlit project: an analysis of neurocritical patient outcomes. 
 <!--
 **sophiagucciardi/sophiagucciardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
